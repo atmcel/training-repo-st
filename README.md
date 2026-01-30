@@ -52,3 +52,11 @@ Use them to make your profile fun! :rocket: :sparkles:
 ![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/USERNAME?style=social)
 
+## :camera_with_flash: Submission Instructions
+
+Once you're done:
+1. Copy your repository URL (it looks like: `https://github.com/YOUR-USERNAME/my-first-repo`)
+2. Share it in our Discord channel
+3. Check out your classmates' repositories and give them a :star: star!
+
+
